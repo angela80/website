@@ -3,3 +3,4 @@
  i added breadcrumbs and social buttons & linked to social media
  i have a bootstrap contact form .
 i used the wayback machine internet archive for playlist content and youtube for videos& placed them in boostrap grid# website
+i have taken kildare now newsletter code and changed it to beatles newsletter and put it in my media page on the left for subscribing
